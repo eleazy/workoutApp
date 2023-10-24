@@ -1,0 +1,609 @@
+{
+  "exerciseLibrary": {
+    "0": {
+      "name": "Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Back", "Biceps", "Forearms"]
+    },
+    "1": {
+      "name": "Muscle Up",
+      "type": ["Pull", "Push"],
+      "muscles": ["Back", "Biceps", "Forearms", "Chest", "Triceps"]
+    },
+    "2": {
+      "name": "Front Lever",
+      "type": ["Pull", "Hold"],
+      "muscles": ["Back", "Biceps", "Forearms", "Core", "Chest"]
+    },
+    "3": {
+      "name": "High Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Back", "Biceps", "Forearms"]
+    },
+    "4": {
+      "name": "Chin Up",
+      "type": ["Pull"],
+      "muscles": ["Back", "Biceps", "Forearms"]
+    },
+    "5": {
+      "name": "Push Up",
+      "type": ["Push"],
+      "muscles": ["Chest", "Shoulders", "Triceps"]
+    },
+    "6": {
+      "name": "Dips",
+      "type": ["Push"],
+      "muscles": ["Chest", "Shoulders", "Triceps"]
+    },
+    "7": {
+      "name": "Handstand Push Up",
+      "type": ["Push"],
+      "muscles": ["Shoulders", "Triceps", "Chest"]
+    },
+    "8": {
+      "name": "Full Planche",
+      "type": ["Push", "Hold"],
+      "muscles": ["Shoulders", "Triceps", "Core", "Chest"]
+    },
+    "9": {
+      "name": "Floor L-Sit",
+      "type": ["Core", "Hold"],
+      "muscles": ["Core", "Triceps", "Shoulders"]
+    },
+    "10": {
+      "name": "Bar L-Sit",
+      "type": ["Core", "Hold"],
+      "muscles": ["Core", "Back", "Biceps", "Forearms"]
+    },
+    "11": {
+      "name": "Floor Leg Raise",
+      "type": ["Core"],
+      "muscles": ["Core"]
+    },
+    "12": {
+      "name": "Bar Leg Raise",
+      "type": ["Core"],
+      "muscles": ["Core", "Back", "Biceps", "Forearms"]
+    },
+    "13": {
+      "name": "Tricep Extension",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "14": {
+      "name": "Plank",
+      "type": ["Hold", ""],
+      "muscles": ["Shoulders", "Core"]
+    },
+    "15": {
+      "name": "Side Plank",
+      "type": ["Hold"],
+      "muscles": ["Shoulders", "Core"]
+    },
+    "16": {
+      "name": "Archer Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "17": {
+      "name": "Australian Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "18": {
+      "name": "One Arm Australian Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "19": {
+      "name": "Commando Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "20": {
+      "name": "Inverted Row Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Core", "Forearms"]
+    },
+    "21": {
+      "name": "Jump Negative Pull Up",
+      "type": ["Pull", "Hold"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "22": {
+      "name": "L-Sit Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Core", "Forearms"]
+    },
+    "23": {
+      "name": "Jumping One Arm Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "24": {
+      "name": "Assisted One Arm Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "25": {
+      "name": "Head Banger",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "26": {
+      "name": "Hanging Lat Pull Down",
+      "type": ["Pull"],
+      "muscles": ["Back", "Forearms"]
+    },
+    "27": {
+      "name": "Negative One Arm Pull Up",
+      "type": ["Pull", "Hold"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "28": {
+      "name": "One Arm Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "29": {
+      "name": "High L-Sit Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Core", "Forearms"]
+    },
+    "30": {
+      "name": "Bar Knee Raise",
+      "type": ["Pull"],
+      "muscles": ["Core", "Back", "Forearms"]
+    },
+    "31": {
+      "name": "Front Lever Raise",
+      "type": ["Pull"],
+      "muscles": ["Forearms", "Back", "Core"]
+    },
+    "32": {
+      "name": "Toes to Bar",
+      "type": ["Pull", "Core"],
+      "muscles": ["Back", "Core", "Forearms"]
+    },
+    "33": {
+      "name": "One Arm Chin Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "34": {
+      "name": "Scapula Shrugs",
+      "type": ["Pull"],
+      "muscles": ["Back", "Forearms"]
+    },
+    "35": {
+      "name": "Negative Front Lever",
+      "type": ["Pull", "Hold"],
+      "muscles": ["Biceps", "Back", "Core", "Forearms"]
+    },
+    "36": {
+      "name": "Negative Muscle Up",
+      "type": ["Pull", "Push", "Hold"],
+      "muscles": ["Biceps", "Back", "Chest", "Triceps", "Forearms"]
+    },
+    "37": {
+      "name": "Hanging Corner Raise",
+      "type": ["Pull"],
+      "muscles": ["Forearms", "Back", "Core"]
+    },
+    "38": {
+      "name": "Upside Down Deadlift",
+      "type": ["Pull"],
+      "muscles": ["Core", "Back", "Forearms"]
+    },
+    "39": {
+      "name": "Negative One Arm Chin Up",
+      "type": ["Pull", "Hold"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "40": {
+      "name": "One Arm Toes to Bar",
+      "type": ["Core", "Pull"],
+      "muscles": ["Core", "Back", "Forearms"]
+    },
+    "41": {
+      "name": "Ice Cream Maker",
+      "type": ["Pull", "Core"],
+      "muscles": ["Core", "Back", "Forearms", "Biceps"]
+    },
+    "42": {
+      "name": "Straight Bar Dip",
+      "type": ["Push"],
+      "muscles": ["Chest", "Triceps", "Shoulders"]
+    },
+    "43": {
+      "name": "L-Sit to Full Planche",
+      "type": ["Push", "Hold", "Core"],
+      "muscles": ["Core", "Triceps", "Shoulders", "Chest"]
+    },
+    "44": {
+      "name": "HandStand to Full Planche",
+      "type": ["Push", "Hold", "Core"],
+      "muscles": ["Core", "Triceps", "Shoulders", "Chest"]
+    },
+    "45": {
+      "name": "HandStand",
+      "type": ["Hold", "Core"],
+      "muscles": ["Core", "Triceps", "Shoulders", "Chest"]
+    },
+    "46": {
+      "name": "Tuck Planche to Full Planche",
+      "type": ["Push", "Hold", "Core"],
+      "muscles": ["Core", "Triceps", "Shoulders", "Chest"]
+    },
+    "47": {
+      "name": "Assisted Full Planche",
+      "type": ["Push", "Hold", "Core"],
+      "muscles": ["Core", "Triceps", "Shoulders", "Chest"]
+    },
+    "48": {
+      "name": "Benche Dip",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "49": {
+      "name": "One Arm Bench Dip",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "50": {
+      "name": "Archer Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "51": {
+      "name": "Explosive Pull Up",
+      "type": ["Pull"],
+      "muscles": ["Biceps", "Back", "Forearms"]
+    },
+    "52": {
+      "name": "Explosive Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "53": {
+      "name": "Pelican Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "54": {
+      "name": "Diamond Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "55": {
+      "name": "Typewriter Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "56": {
+      "name": "Elevated Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "57": {
+      "name": "One Arm Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "58": {
+      "name": "Assisted One Arm Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "59": {
+      "name": "Burpee",
+      "type": ["Cardio"],
+      "muscles": ["Triceps", "Shoulders", "Chest", "Quads"]
+    },
+    "60": {
+      "name": "Explosive Dips",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "61": {
+      "name": "Explosive Straight Bar Dip",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "62": {
+      "name": "Deep Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "63": {
+      "name": "Skull Crusher",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "64": {
+      "name": "Impossible Dip",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "65": {
+      "name": "Negative Impossible Dip",
+      "type": ["Push", "Hold"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "66": {
+      "name": "Planche Lean",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "67": {
+      "name": "Planche Lean Hold",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "68": {
+      "name": "Reverse Lean",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "69": {
+      "name": "Inclined Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest"]
+    },
+    "70": {
+      "name": "Jump Rope",
+      "type": ["Cardio"],
+      "muscles": ["Calves", "Shoulders"]
+    },
+    "71": {
+      "name": "Around the World",
+      "type": ["Core", "Hold"],
+      "muscles": ["Core", "Back", "Forearms"]
+    },
+    "72": {
+      "name": "Boat Hold",
+      "type": ["Core", "Hold"],
+      "muscles": ["Core"]
+    },
+    "73": {
+      "name": "L-Sit to 90 Degree",
+      "type": ["Core", "Hold"],
+      "muscles": ["Triceps", "Shoulders", "Chest", "Core"]
+    },
+    "74": {
+      "name": "90 Degree Push Up",
+      "type": ["Push"],
+      "muscles": ["Triceps", "Shoulders", "Chest", "Core"]
+    },
+    "75": {
+      "name": "90 Degree Hold",
+      "type": ["Push", "Core", "Hold"],
+      "muscles": ["Triceps", "Shoulders", "Chest", "Core"]
+    },
+    "76": {
+      "name": "Russian Twist",
+      "type": ["Core"],
+      "muscles": ["Core"]
+    },
+    "77": {
+      "name": "Hanging Bicycles",
+      "type": ["Core"],
+      "muscles": ["Core"]
+    },
+    "78": {
+      "name": "V-Up",
+      "type": ["Core"],
+      "muscles": ["Core"]
+    },
+    "79": {
+      "name": "High Knee Tap",
+      "type": ["Core", "Cardio"],
+      "muscles": ["Core", "Calves"]
+    },
+    "80": {
+      "name": "Reverse Plank",
+      "type": ["Hold"],
+      "muscles": ["Core", "Shoulders"]
+    },
+    "81": {
+      "name": "Seated Leg Flutter",
+      "type": ["Core", "Cardio"],
+      "muscles": ["Core"]
+    },
+    "82": {
+      "name": "Dragon Flag",
+      "type": ["Hold"],
+      "muscles": ["Core"]
+    },
+    "83": {
+      "name": "Crunches",
+      "type": ["Core", "Cardio"],
+      "muscles": ["Core"]
+    },
+    "84": {
+      "name": "Human Flag",
+      "type": ["Hold"],
+      "muscles": ["Core"]
+    },
+    "85": {
+      "name": "Bicycle Crunch",
+      "type": ["Core", "Cardio"],
+      "muscles": ["Core"]
+    },
+    "86": {
+      "name": "Sit Up",
+      "type": ["Core"],
+      "muscles": ["Core"]
+    },
+    "87": {
+      "name": "Human Flag Raise",
+      "type": ["Hold"],
+      "muscles": ["Core", "Back", "Biceps", "Forearms", "Chest"]
+    },
+    "88": {
+      "name": "Human Flag Plank",
+      "type": ["Hold"],
+      "muscles": ["Core", "Back", "Biceps", "Forearms", "Chest"]
+    },
+    "89": {
+      "name": "Bar Leg Flutter",
+      "type": ["Hold"],
+      "muscles": ["Core", "Back", "Forearms"]
+    },
+    "90": {
+      "name": "Mountain Climber",
+      "type": ["Cardio"],
+      "muscles": ["Core", "Shoulders"]
+    },
+    "91": {
+      "name": "Negative Human Flag",
+      "type": ["Hold"],
+      "muscles": ["Core", "Back", "Biceps", "Forearms", "Chest"]
+    },
+    "92": {
+      "name": "Cross Lunges",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "93": {
+      "name": "Single Leg Hip Trust",
+      "type": ["Pull"],
+      "muscles": ["Hamstrings", "Glutes", "Core"]
+    },
+    "94": {
+      "name": "Sumo Squat",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "95": {
+      "name": "Wall Sit",
+      "type": ["Hold"],
+      "muscles": ["Quads"]
+    },
+    "96": {
+      "name": "Box Step Up",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "97": {
+      "name": "Bulgarian Split Squat",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "98": {
+      "name": "Single Leg Glute Bridge",
+      "type": ["Pull"],
+      "muscles": ["Core", "Glutes", "Hamstrings"]
+    },
+    "99": {
+      "name": "Pistol Squat",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "100": {
+      "name": "Crab Walk",
+      "type": ["Push", "Hold"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "101": {
+      "name": "Switching Lunges",
+      "type": ["Push", "Cardio"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "102": {
+      "name": "Squats",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "103": {
+      "name": "Side Squats",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "104": {
+      "name": "Explosive Squats",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "105": {
+      "name": "Calf Raise",
+      "type": ["Push"],
+      "muscles": ["Calves"]
+    },
+    "106": {
+      "name": "Single Leg Calf Raise",
+      "type": ["Push"],
+      "muscles": ["Calves"]
+    },
+    "107": {
+      "name": "Glute Bridge",
+      "type": ["Pull"],
+      "muscles": ["Hamstrings", "Glutes", "Core"]
+    },
+    "108": {
+      "name": "Alternating Single Leg Wall Sit",
+      "type": ["Hold"],
+      "muscles": ["Quads"]
+    },
+    "109": {
+      "name": "Back and Forth Lunges",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "110": {
+      "name": "Sumo Walk",
+      "type": ["Push", "Hold"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "111": {
+      "name": "Assisted Pistol Squat",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "112": {
+      "name": "Box Jumps",
+      "type": ["Push", "Cardio"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "113": {
+      "name": "Sumo Calf Raise",
+      "type": ["Push", "Hold"],
+      "muscles": ["Calves", "Glutes", "Quads"]
+    },
+    "114": {
+      "name": "Stationary Lunges",
+      "type": ["Push"],
+      "muscles": ["Calves", "Glutes", "Quads"]
+    },
+    "115": {
+      "name": "Glute Bridge Hold",
+      "type": ["Hold", "Pull"],
+      "muscles": ["Hamstrings", "Glutes", "Core"]
+    },
+    "116": {
+      "name": "Donkey Kicks",
+      "type": ["Push"],
+      "muscles": ["Glutes", "Core"]
+    },
+    "117": {
+      "name": "Reverse Leg Lift",
+      "type": ["Push"],
+      "muscles": ["Glutes", "Core"]
+    },
+    "118": {
+      "name": "Glute Bridge Calf Raises",
+      "type": ["Push", "Hold"],
+      "muscles": ["Calves", "Glutes", "Hamstrings"]
+    },
+    "119": {
+      "name": "Elevated Side Squats",
+      "type": ["Push"],
+      "muscles": ["Quads", "Glutes"]
+    },
+    "120": {
+      "name": "Reverse Leg Raise",
+      "type": ["Push"],
+      "muscles": ["Core", "Glutes"]
+    }
+  }
+}

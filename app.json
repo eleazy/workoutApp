@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Shredding",
+    "slug": "workoutapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./iconFinal.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./splashArt.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#010205"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./iconFinal.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.liazi.workoutapp"
+    },
+    "web": {
+      "favicon": "./iconFinal.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eefda08a-fb24-4293-b7b8-9230f90bb188"
+      }
+    },
+    "owner": "liazi",
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#000000",
+      "translucent": true
+    }
+  }
+}
