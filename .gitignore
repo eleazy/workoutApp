@@ -35,6 +35,6 @@ yarn-error.*
 *.tsbuildinfo
 
 # firebase
-#firebase.json
-#firebase/
+firebase.json
+firebase/
 
