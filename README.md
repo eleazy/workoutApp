@@ -3,15 +3,15 @@ App mobile devenvolvido com react native para registrar treinos de calistenia e 
 Link para download do arquivo .apk - https://expo.dev/artifacts/eas/uhMXBUguckgTLretnDbR5U.apk
 </br></br></br>
 
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/0cec0bd9-9e32-4899-a68c-a7efc1a0bde1" alt=" " height=500 title="home"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/0d87b1f5-e533-41ba-a49d-ba5484dbf54f" alt=" " height=500 title="drawer"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/38efba7b-38fe-4bb5-a9b9-0f9b75f48d8a" alt=" " height=500 title="workout"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/8de0fae0-0823-4252-a399-a9b0bdd0d2b5" alt=" " height=500 title="exercise_library"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/a5868925-92e2-4e63-9017-8ec3d49b10dd" alt=" " height=500 title="create_exercise"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/0518cf62-6e1d-4798-a576-4f7cafddfb3e" alt="" height=500 title="workout_library"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/6fbe13e1-0d47-44f6-b56d-49acb67ae2ac" alt=" " height=500 title="edit_workout"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/fc51afe4-d639-41e7-b12d-fad6470fbadc" alt=" " height=500 title="records_library"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/91bdf980-3ff4-4a8a-8976-efd14559dedf" alt=" " height=500 title="create_record"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/3605f2de-32ac-42e7-9142-5d39a19c6fc1" alt="" height=500 title="workout_history"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/c0dea5b8-1ff0-4a6d-bb8f-d287cca6d504" alt=" " height=500 title="week_planning"/>
-<img src="https://github.com/eleazy/workoutApp/assets/37671310/05d9f2b7-1f08-4c8e-876f-06f738384ef9" alt=" " height=500 title="settings"/>
+![week_planning](https://github.com/eleazy/workoutApp/assets/37671310/b165597c-2c3a-4d95-a6a2-81807871e10e)
+![settings](https://github.com/eleazy/workoutApp/assets/37671310/394f040f-0089-4e2d-9e2a-5b079b7632b8)
+![records_library](https://github.com/eleazy/workoutApp/assets/37671310/a3e18369-ad47-47d9-8e34-cdd99bba6e18)
+![home](https://github.com/eleazy/workoutApp/assets/37671310/5d9168ba-96c4-4ece-a1de-099751f9d49b)
+![exercise_library](https://github.com/eleazy/workoutApp/assets/37671310/8ef7e9ca-1742-4972-9532-2d62af6f521e)
+![edit_workout](https://github.com/eleazy/workoutApp/assets/37671310/432f4295-a12c-4958-81c2-5a56b0cc2d7e)
+![drawer](https://github.com/eleazy/workoutApp/assets/37671310/87dfd0e6-9c10-468d-8442-d0a8bbac9144)
+![create_record](https://github.com/eleazy/workoutApp/assets/37671310/0e57c64a-c487-4ce8-99b4-0a9e1abb8f63)
+![create_exercise](https://github.com/eleazy/workoutApp/assets/37671310/334b877f-9053-40b2-aaec-ab2d2519f5ee)
+![workout_library](https://github.com/eleazy/workoutApp/assets/37671310/bd09dd2a-dc45-4d33-8cff-4c1ec7724cb1)
+![workout_history](https://github.com/eleazy/workoutApp/assets/37671310/c01385c3-f932-4780-935c-68ecdb02b3d2)
+![workout](https://github.com/eleazy/workoutApp/assets/37671310/25f91da0-39ea-4caa-820e-e93915ca0ec3)
