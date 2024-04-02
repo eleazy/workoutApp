@@ -1,6 +1,6 @@
 # workoutApp - Shredding
 App mobile devenvolvido com react native para registrar treinos de calistenia e musculação. </br>
-Link para download do arquivo .apk - https://expo.dev/artifacts/eas/wmUQw6SWQTnzSmwxL6HLTf.apk
+Link para download do arquivo .apk - https://expo.dev/artifacts/eas/jCEvRzCma5BoRJyViAgNi3.apk
 </br></br></br>
 
 ![week_planning](https://github.com/eleazy/workoutApp/assets/37671310/b165597c-2c3a-4d95-a6a2-81807871e10e)
